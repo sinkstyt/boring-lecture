@@ -1,12 +1,7 @@
-h2.intro {
+.intro {
   color: darkgreen;
-  text-family:  'Sansita Swashed', cursive;
-}
-p.intro {
-  color: brown;
+  font-family:  'Sansita Swashed', cursive;
   border-radius: 25%;
   text-shadow: #FC0 2px 0 10px;
-}
-img.intro {
   image-rendering: pixelated;
 }
